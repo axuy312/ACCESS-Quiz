@@ -15,9 +15,8 @@
 </details>
 
 <details>
- <summary>Palindrome Linked List-1</summary>
+ <summary>Palindrome Linked List</summary>
     <img align="center" src="https://github.com/axuy312/ACCESS-Quiz/blob/main/Description/Palindrome%20Linked%20List-1.JPG" />
- <summary>Palindrome Linked List-2</summary>
     <img align="center" src="https://github.com/axuy312/ACCESS-Quiz/blob/main/Description/Palindrome%20Linked%20List-2.JPG" />
 </details>
 
