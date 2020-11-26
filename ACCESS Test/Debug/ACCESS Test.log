@@ -1,0 +1,12 @@
+﻿  5_Merge Two Binary Trees.cpp
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(15,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(26,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(35,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(41,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(53,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(55,18): warning C4018: '>': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(97,14): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(101,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(112,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\axuy312\Desktop\ACCESS Test\ACCESS Test\5_Merge Two Binary Trees.cpp(163,20): warning C4018: '<': signed/unsigned 不相符
+  ACCESS Test.vcxproj -> C:\Users\axuy312\Desktop\ACCESS Test\Debug\ACCESS Test.exe
